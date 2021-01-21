@@ -7,15 +7,15 @@ namespace Uppgift09_StenSaxPase
         static void Main(string[] args)
         {
             Console.WriteLine("Hej! Välkommen att spela sten-sax-påse mot datorn");
-            
+
             int player1count = 0;
             int player2count = 0;
             string repeat = "mumbojumbo";
-            
+
 
             while (repeat != "Nej" || repeat != "nej")
             {
-                
+
                 Console.WriteLine("Välj genom att skriva: Sten, Sax eller Påse");
                 string player1 = Console.ReadLine();
                 Random rnd = new Random();
@@ -104,7 +104,6 @@ namespace Uppgift09_StenSaxPase
                     }
 
                 }
-                
 
                 Console.WriteLine("Du har vunnit: " + player1count + " gånger");
                 Console.WriteLine("Datorn har vunnit: " + player2count + " gånger");
@@ -117,13 +116,7 @@ namespace Uppgift09_StenSaxPase
                     Console.ReadKey();
                     break;
                 }
-
-            
-
-
-            
+            }
         }
     }
-
-    }
-    }
+}

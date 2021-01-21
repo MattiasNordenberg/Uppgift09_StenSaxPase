@@ -1,0 +1,15 @@
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/bin/Debug/net5.0/Uppgift09_StenSaxPase.deps.json
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/bin/Debug/net5.0/Uppgift09_StenSaxPase.runtimeconfig.json
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/bin/Debug/net5.0/Uppgift09_StenSaxPase.runtimeconfig.dev.json
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/bin/Debug/net5.0/Uppgift09_StenSaxPase.dll
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/bin/Debug/net5.0/ref/Uppgift09_StenSaxPase.dll
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/bin/Debug/net5.0/Uppgift09_StenSaxPase.pdb
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/Uppgift09_StenSaxPase.csprojAssemblyReference.cache
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/Uppgift09_StenSaxPase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/Uppgift09_StenSaxPase.AssemblyInfoInputs.cache
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/Uppgift09_StenSaxPase.AssemblyInfo.cs
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/Uppgift09_StenSaxPase.csproj.CoreCompileInputs.cache
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/Uppgift09_StenSaxPase.dll
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/ref/Uppgift09_StenSaxPase.dll
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/Uppgift09_StenSaxPase.pdb
+/Users/mattiasnordenberg/Desktop/ITA20/C#/Lektion9_Git/Uppgift09_StenSaxPase/obj/Debug/net5.0/Uppgift09_StenSaxPase.genruntimeconfig.cache

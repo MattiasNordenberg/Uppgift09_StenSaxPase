@@ -26,8 +26,8 @@ namespace Uppgift09_StenSaxPase
                 {
                     if (player1 == "Sten")
                     {
-                        Console.WriteLine("Datorn valde sten");
-                        Console.WriteLine("Lika");
+                        Console.WriteLine("Datorn valde också sten");
+                        Console.WriteLine("Oavgjort!");
                     }
                     else if (player1 == "Sax")
                     {
@@ -42,10 +42,10 @@ namespace Uppgift09_StenSaxPase
                         Console.WriteLine("Du vann! Påse slår sten.");
                         player1count += 1;
                     }
-                    else
-                    {
-                        Console.WriteLine("Du måste välja antingen sten, sax eller påse!");
-                    }
+                   else
+                   {
+                       Console.WriteLine("Det funkar bara med Sten, Sax eller Påse :)");
+                   }
 
                 }
 
@@ -60,8 +60,8 @@ namespace Uppgift09_StenSaxPase
                     }
                     else if (player1 == "Sax")
                     {
-                        Console.WriteLine("Datorn valde sax.");
-                        Console.WriteLine("Lika");
+                        Console.WriteLine("Datorn valde också sax.");
+                        Console.WriteLine("Oavgjort!");
 
                     }
                     else if (player1 == "Påse")
@@ -72,9 +72,10 @@ namespace Uppgift09_StenSaxPase
 
                     }
                     else
-                    {
-                        Console.WriteLine("Du måste välja antingen sten, sax eller påse!");
-                    }
+                   {
+                       Console.WriteLine("Det funkar bara med Sten, Sax eller Påse :)");
+                   }
+
                 }
                 else if (player2 == 3)
                 {
@@ -94,15 +95,14 @@ namespace Uppgift09_StenSaxPase
                     }
                     else if (player1 == "Påse")
                     {
-                        Console.WriteLine("Datorn valde påse.");
-                        Console.WriteLine("Lika");
+                        Console.WriteLine("Datorn valde också påse.");
+                        Console.WriteLine("Oavgjort!");
 
                     }
                     else
-                    {
-                        Console.WriteLine("Du måste välja antingen sten, sax eller påse!");
-
-                    }
+                   {
+                       Console.WriteLine("Det funkar bara med Sten, Sax eller Påse :)");
+                   }
 
                 }
 

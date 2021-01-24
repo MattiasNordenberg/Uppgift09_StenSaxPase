@@ -16,6 +16,7 @@ namespace Uppgift09_StenSaxPase
             while (repeat != "Nej" || repeat != "nej")
             {
 
+                Console.WriteLine("");
                 Console.WriteLine("Välj genom att skriva: Sten, Sax eller Påse");
                 string player1 = Console.ReadLine();
                 Random rnd = new Random();
